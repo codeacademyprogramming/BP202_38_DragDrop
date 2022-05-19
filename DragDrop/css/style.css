@@ -1,0 +1,38 @@
+body{
+    height: 1000px;
+}
+.box{
+    width: 50px;
+    height: 50px;
+}
+
+.bg-red{
+    background-color: red;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-lime{
+    background-color: lime;
+}
+
+.bg-brown{
+    background-color: brown;
+}
+
+
+.mainBox{
+    width: 500px;
+    height: 350px;
+    margin: 0 auto;
+    background-color: pink;
+    position: absolute;
+}
+
+.circle{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+}
